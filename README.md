@@ -16,13 +16,10 @@
 - 🎓 Computer Science & Engineering student  
 - 🌐 Interested in **Web Development**
 - 💻 Skilled in **HTML, CSS, JavaScript, C++**
-- 🗄️ Comfortable with **SQL & MongoDB**
 - 📚 Currently learning **Java & React**
 - 🚀 Love building clean and functional projects
 
 ---
-
-## 🛠️ Tech Stack
 
 ### 💻 Languages & Markup
 <p>
@@ -34,10 +31,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+
 
 ### 📖 Currently Learning
 <p>
