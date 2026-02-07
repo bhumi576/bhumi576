@@ -76,7 +76,7 @@
   <a href="https://github.com/bhumi576">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://linkedin.com/in/Bhumi .">
+  <a href="https://www.linkedin.com/in/bhumi-aab8b1326/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
@@ -90,5 +90,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=https://github.com/bhumi576&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
