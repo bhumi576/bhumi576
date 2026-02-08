@@ -82,6 +82,17 @@
 
 ###
 
+## 🟩 Contribution Calendar
+
+<p align="center">
+  <img 
+    src="https://ghchart.rshah.org/green/ishasharma3061"
+    alt="GitHub Contribution Chart"
+  />
+</p>
+
+
+---
 ## 🤝 Connect With Me
 
 <p align="left">
