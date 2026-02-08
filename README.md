@@ -10,7 +10,13 @@
 </p>
 
 ---
+###
 
+<!-- <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div> -->
+
+###
 ## 🌟 About Me
 
 - 🎓 Computer Science & Engineering student  
@@ -49,7 +55,6 @@
 
 ---
 
----
 
 ## 🧠 Top Languages
 
@@ -63,6 +68,19 @@
 </p>
 
 ---
+
+
+###
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 ## 🤝 Connect With Me
 
@@ -83,6 +101,6 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=https://github.com/bhumi576&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+</p> -->
